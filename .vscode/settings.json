@@ -1,0 +1,13 @@
+{
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true,
+    "files.eol": "\n",
+    "liveServer.settings.port": 5500,
+    "emmet.includeLanguages": {
+        "javascript": "html"
+    },
+    "git.autofetch": true,
+    "git.confirmSync": false
+}
