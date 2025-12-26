@@ -340,7 +340,7 @@ footer .container {
   border: 1px solid #eee;
 }
 .structure-card.highlight {
-  border: 2px solid #3498db;
+  border: 1px solid #3498db;
   background: #f0f8ff;
   max-width: 400px;
   margin: 0 auto 3rem;
