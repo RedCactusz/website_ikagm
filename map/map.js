@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", function () {
   }).addTo(map);
 
   // ===== 1. LOAD DATA DARI JSON =====
-  fetch("database/alumni_data.json")
+  fetch("data/alumni_data.json")
     .then((response) => response.json())
     .then((alumniList) => {
       alumniList.forEach((alumni) => {
