@@ -19,7 +19,7 @@ body {
 
 /* Navigation */
 .navbar {
-  background-color: #d59500;
+  background-color: #4E1F00;
   color: white;
   padding: 1rem 0;
 }
@@ -55,7 +55,7 @@ body {
 
 /* Hero Section */
 .hero {
-  background: linear-gradient(135deg, #ffe608, #ff8f0f);
+  background: linear-gradient(135deg, #74512D, #FEBA17);
   color: white;
   text-align: center;
   padding: 5rem 1rem;
@@ -74,7 +74,7 @@ body {
 
 .btn {
   display: inline-block;
-  background-color: #503ce7;
+  background-color: #ABE0F0;
   color: white;
   padding: 0.8rem 2rem;
   border-radius: 5px;
@@ -84,7 +84,7 @@ body {
 }
 
 .btn:hover {
-  background-color: #311bd7;
+  background-color: #abe0f0b7;
 }
 
 /* Features Section */
