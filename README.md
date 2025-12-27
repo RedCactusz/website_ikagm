@@ -10,9 +10,14 @@ Website untuk ikatan alumni [Nama Sekolah/Kampus].
 
 ## Team Members
 
-1. [Nama Kamu]
-2. [Teman 1]
-3. [Teman 2]
+1. Yurico
+2. Rouf
+3. Belinda
+4. Abe
+5. Fadel
+6. Ilfa
+7. Ikram
+8. Cikal
 
 ## Cara Menjalankan Lokal
 
